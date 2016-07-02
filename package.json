@@ -1,0 +1,28 @@
+{
+  "name": "timothyliri",
+  "version": "0.0.9",
+  "description": "Information when you need it",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostinostin/liri-node-app.git"
+  },
+  "author": "Chris Crawford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostinostin/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/lostinostin/liri-node-app#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "inquirer": "^1.1.0",
+    "node-debug": "^0.1.0",
+    "opn": "^4.0.2",
+    "request": "^2.72.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.3.0"
+  }
+}
